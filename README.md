@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Mike Johnson
 
+## My Stack:
 <!--
 **mikerjohnson27/mikerjohnson27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
