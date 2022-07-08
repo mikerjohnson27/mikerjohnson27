@@ -62,8 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikerjohnson27&repo=All-My-Links-Page">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikerjohnson27&repo=Find_Dry_Chargers">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikerjohnson27&repo=Readme-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=
-Learning-Full-Stack-LLC&repo=LearningFullStackwebsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Learning-Full-Stack-LLC&repo=LearningFullStackwebsite">
 </p>
 
  ## My Stats:
